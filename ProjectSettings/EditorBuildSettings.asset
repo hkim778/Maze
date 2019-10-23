@@ -9,12 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/TitleScreen.unity
     guid: aa5f3f1a5d68f401e9d2db9d74b75bfc
   - enabled: 1
-    path: Assets/Scenes/LeaderBoard.unity
-    guid: a6f9147a728f34cb983ec079751389e8
-  - enabled: 1
     path: Assets/Scenes/Maze.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/AfterGame.unity
-    guid: 9a5145e26fc1a44e49c59b502421bc3e
+    path: Assets/Scenes/LeaderBoard.unity
+    guid: a6f9147a728f34cb983ec079751389e8
   m_configObjects: {}
