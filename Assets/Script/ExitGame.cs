@@ -19,16 +19,9 @@ public class ExitGame : MonoBehaviour
 
     public void Exit()
     {
-        Debug.Log("hi");
-        if (EditorApplication.isPlaying)
-        {
-            EditorApplication.isPlaying = false;
-        }
-        else
-        {
-            //if users are using the build option
-            Application.Quit();
-        }
+        //if users are using the build option
+        Application.Quit();
+
 
     }
 }
